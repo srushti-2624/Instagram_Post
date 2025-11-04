@@ -11,7 +11,7 @@ By [@joaomdmoura](https://x.com/joaomdmoura)
 - [Running the script](#running-the-script)
 - [Details & Explanation](#details--explanation)
 - [Using Local Models with Ollama](#using-local-models-with-ollama)
-- [License](#license)
+
 
 ## CrewAI Framework
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to generate a creative and trendy instagram post.
@@ -40,5 +40,4 @@ This example run entirely local models, the CrewAI framework supports integratio
 - **Install Ollama**: Ensure that Ollama is properly installed in your environment. Follow the installation guide provided by Ollama for detailed instructions.
 - **Configure Ollama**: Set up Ollama to work with your local model. You will probably need to [tweak the model using a Modelfile](https://github.com/jmorganca/ollama/blob/main/docs/modelfile.md), I'd recommend playing with `top_p` and `temperature`.
 
-## License
-This project is released under the MIT License.
+
